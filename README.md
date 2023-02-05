@@ -14,6 +14,15 @@ Below there's a list of finished activities containing the link to its code avai
   - [Code in p5.js website](https://editor.p5js.org/mateuseap/sketches/n5KUZQZGj)
 </details>
 
+<details>
+  <summary>
+    <h4>Activity 2.2 - Agent looking for food</h4>
+  </summary>  
+  
+  - [Code in this repo](https://github.com/mateuseap/intelligent-systems/tree/main/agent%20looking%20for%20food)
+  - [Code in p5.js website](https://editor.p5js.org/mateuseap/sketches/pHgR88XFZ)
+</details>
+
 ## Running p5.js code locally
 
 To run some code locally you'll need to install [Node.js](https://nodejs.org/en/) `http-server`, just follow these simples steps to install it:
