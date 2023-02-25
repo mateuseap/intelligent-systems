@@ -23,6 +23,15 @@ Below there's a list of finished activities containing the link to its code avai
   - [Code in p5.js website](https://editor.p5js.org/mateuseap/sketches/pHgR88XFZ)
 </details>
 
+<details>
+  <summary>
+    <h4>Activity 2.3 - Evolution of an ecosystem</h4>
+  </summary>  
+  
+  - [Code in this repo](https://github.com/mateuseap/intelligent-systems/tree/main/evolution%20of%20an%20ecosystem)
+  - [Code in p5.js website](https://editor.p5js.org/mateuseap/sketches/JwhbZkjk-)
+</details>
+
 ## Running p5.js code locally
 
 To run some code locally you'll need to install [Node.js](https://nodejs.org/en/) `http-server`, just follow these simples steps to install it:
